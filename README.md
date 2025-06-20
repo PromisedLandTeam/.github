@@ -1,3 +1,2 @@
 # .github
-Hi,This is the Promised Land team!
-Our team insterested in training fancy large model and products powered by diffusion.
+The profile folder will show on our team page
